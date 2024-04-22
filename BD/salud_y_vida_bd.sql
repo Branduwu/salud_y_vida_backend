@@ -1,4 +1,4 @@
-CREATE DATABASE  IF NOT EXISTS `salud_y_vida` /*!40100 DEFAULT CHARACTER SET utf8mb3 */ /*!80016 DEFAULT ENCRYPTION='N' */;
+carrito_comprasCREATE DATABASE  IF NOT EXISTS `salud_y_vida` /*!40100 DEFAULT CHARACTER SET utf8mb3 */ /*!80016 DEFAULT ENCRYPTION='N' */;
 USE `salud_y_vida`;
 -- MySQL dump 10.13  Distrib 8.0.36, for Win64 (x86_64)
 --
